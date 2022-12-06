@@ -1,0 +1,11 @@
+# Notes
+-if the project need dependencies install run this command in the command line
+"npm install"
+-to build the project and run the test
+"npm run test"
+-to run the project with the nodemon 
+"npm run start"
+-the server runs in port 3000
+"http://localhost:3000"
+-to work with images 
+"http://localhost:3000/api/images?filename=encenadaport&width=200&height=200"
